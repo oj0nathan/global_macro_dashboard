@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# .gitignore
-.streamlit/secrets.toml
-__pycache__/
-*.pyc
-.DS_Store
-venv/
-test_setup.py
-=======
 # secrets
 .streamlit/secrets.toml
 .env
@@ -25,4 +16,6 @@ venv/
 # OS/editor
 .DS_Store
 .vscode/
->>>>>>> 95bbab53f6b0c4f11a35206ef5578faa2ed53401
+
+# misc
+test_setup.py
