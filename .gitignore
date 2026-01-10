@@ -1,0 +1,7 @@
+# .gitignore
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+test_setup.py
